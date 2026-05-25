@@ -1,7 +1,7 @@
 # Hey :)👋
 
 I’m a beginner programmer learning **C++** and experimenting with web & game development.  
-Still new, still learning, still having fun 🙂
+I've been coding things nobody asked for since forever
 
 ## Skills
 [![Skills](https://skillicons.dev/icons?i=python,html,css,js,cpp,rs)](https://skillicons.dev)

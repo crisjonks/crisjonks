@@ -7,7 +7,7 @@ I've been coding things nobody asked for since forever
 [![Skills](https://skillicons.dev/icons?i=python,html,css,js,cpp,rs)](https://skillicons.dev)
 
 ## Tools
-[![Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,github,gitlab,cloudflare,claude)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=robloxstudio,vscode,github,cloudflare,)](https://skillicons.dev)
 
 ## Learning
 - C++
